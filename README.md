@@ -1,3 +1,4 @@
-# Final_ICT_Assylay_Assylkhan
+# Final_ICT_Assylay_Assylkhan.
 
-! [ERD](erd_designed (1).png)
+
+![ERD](erd_designed (1).png)
